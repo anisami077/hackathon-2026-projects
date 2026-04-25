@@ -1,0 +1,1 @@
+An AI-powered care coordination platform where clinicians upload chest X-rays, the system detects and localizes pneumonia with severity scoring, confidence specialists can review cases, and patients receive structured diagnostic feedback—enabling faster and more connected clinical decision-making.
